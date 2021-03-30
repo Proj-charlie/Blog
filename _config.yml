@@ -1,7 +1,7 @@
 # Setup
-title: Amin Laanaya
-url: https://blog.laanaya.org
-description: "This is the personal blog of Amin Laanaya, one entry per week. You can contact him via amin@laanaya.org or Discord with Bobcycle#0021."
+title: Laanaya | Knowledge base
+url: https://info.laanaya.org
+description: "Take your mind off the technicalities, leave it to us. It is our goal to work with you to guarantee that your server will run smoothly. We will be the first to respond if there are any issues with your server, so you can sleep well tonight."
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -27,7 +27,7 @@ author:
   email: amin@laanaya.org
 version: 3.0.0
 nav:
-  - title: Archive
-    url: https://blog.laanaya.org/archive
+  - title: Knowledge base
+    url: https://info.laanaya.org/archive
   - title: Home
     url: https://laanaya.org/
