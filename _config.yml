@@ -1,5 +1,5 @@
 # Setup
-title: Laanaya | Knowledge base
+title: Knowledge base
 url: https://info.laanaya.org
 description: "Take your mind off the technicalities, leave it to us. It is our goal to work with you to guarantee that your server will run smoothly. We will be the first to respond if there are any issues with your server, so you can sleep well tonight."
 paginate: 1
@@ -27,7 +27,7 @@ author:
   email: amin@laanaya.org
 version: 3.0.0
 nav:
-  - title: Knowledge base
+  - title: More
     url: https://info.laanaya.org/archive
   - title: Home
     url: https://laanaya.org/
